@@ -1,9 +1,6 @@
 Project Name - MONEY TRACKER
-
 Created By - JAYANT YADAV
-
 Registration Number - 25BAI11172
-
 Institute Name - VIT BHOPAL 
 
 1. WHAT THE PROJECT DOES?
