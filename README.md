@@ -1,4 +1,4 @@
-Project Name - EXPENSE TRACKER
+Project Name - MONEY TRACKER
 Created By - JAYANT YADAV
 Registration Number - 25BAI11172
 Institute Name - VIT BHOPAL 
